@@ -2,7 +2,7 @@
 - My mother language is portuguese, but speak english and a little bit of spanish
 - 👀 I’m interested in BG3, webtoons, Budgeting and The Office
 - 🌱 I’m currently learning to code from zero and Power BI
-- 💞️ I’m looking to improve my budgeting and costs control projects (Civil Engineering here) and I believe that python could help me on that mission, so I'll find out.
+- 💞️ I’m looking to improve my budgeting and costs control projects (Civil Engineer here) and I believe that python could help me on that mission, so I'll find out.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My cat's name is Otávio Gartolomeo Jerônimo de Araújo Silva, AKA Tav
 
